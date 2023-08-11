@@ -15,7 +15,7 @@ const diceArr = [diceOne, diceTwo, diceThree, diceFour, diceFive, diceSix]
 export default function Dice() {
   let num = getRandom(6);
   
-  let diceNum = diceArr[num]
+  let diceNum = diceArr[num - 1];
 
   return (
     <div>

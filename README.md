@@ -4,7 +4,7 @@
 ## Result
 ![Homework 1 결과물](./README_assets/dice.gif)
 
-## figma components
+## figma components - [Link](https://www.figma.com/file/EPBOZDG8wK395dOkLRqCHn/react-homework-1?type=design&node-id=0%3A1&mode=design&t=TfmFwLC4XOz3hDJj-1)
 ![figma components](./README_assets/figma.png)
 
 ## Structure

@@ -19,7 +19,7 @@ export default function Dice() {
 
   return (
     <div>
-      <img src={diceNum} alt="" />
+      <img src={diceNum} alt="주사위" />
     </div>
   );
 }
